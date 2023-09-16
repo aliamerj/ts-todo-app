@@ -120,7 +120,7 @@ export const CreateTaskForm: FC = (): ReactElement => {
           type="submit"
           className="bg-blue-500 text-white px-4 py-2 rounded"
         >
-          Submit
+          Create New Task
         </button>
       </form>
     </div>

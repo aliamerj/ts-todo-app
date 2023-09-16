@@ -1,10 +1,10 @@
 import React, { FC, ReactElement } from "react";
-import { Dashbord } from "./pages/dashbord/dashbodrd";
+import { Dashboard } from "./pages/dashboard/dashboard";
 
 const App: FC = (): ReactElement => {
   return (
     <div className="bg-gray-800 text-white h-screen">
-      <Dashbord />
+      <Dashboard />
     </div>
   );
 };
